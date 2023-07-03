@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+     <title>MY RESUME</title>       
+    </head>
+    <body>
+      <h1> DEBABRATA GHOSH</h1> 
+      <img src="./WhatsApp_Image_2023-06-27_at_12.06.24_PM-removebg-preview.png" alt="Profile photo of Debabrata Ghosh"/>
+      <h2>SUMMARY</h2>
+      <P></P>
+      <h2>EDUCATION</h2>
+      <P>I have done my high school from National English School,Kolkata a school affiliated CISCE.I am currently pursuing B.Tech In Electrical and Electronic Engineering from Institute of Engineering and Management,Kolkata</P>
+      <h2>WORK EXPERIENCE</h2>
+      <h2>SKILLS</h2>  
+
+    </body>
+</html>
